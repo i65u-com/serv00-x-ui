@@ -5,5 +5,5 @@ pgrep -x "x-ui" > /dev/null
 
 # 如果没有运行，则启动 x-ui
 if [ $? -ne 0 ]; then
-    nohup /home/${USER}/x-ui/x-ui run > /home/${USER}/x-ui/x-ui.log 2>&1 &
+    /home/${USER}/x-ui/x-ui.sh restart
 fi
