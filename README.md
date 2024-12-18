@@ -1,4 +1,4 @@
-# [am-serv00-x-ui](https://github.com/amclubs/am-serv00-x-ui)
+# [serv00-x-ui](https://github.com/amclubs/serv00-x-ui)
 这是一个基于serv00免费服务器安装 x-ui for freebsd 支持多协议多用户的 xray 面板, 本版本支持FreeBSD非root安装
 
 #
@@ -26,12 +26,12 @@
 # 安装&升级
 在安装前，请先准备好用户名，密码和两个端口（面板访问端口和流量监控端口）！
 ```
-wget -O x-ui.sh -N --no-check-certificate https://raw.githubusercontent.com/amclubs/am-serv00-x-ui/main/x-ui.sh && chmod +x x-ui.sh && ./x-ui.sh
+wget -O x-ui.sh -N --no-check-certificate https://raw.githubusercontent.com/amclubs/serv00-x-ui/main/x-ui.sh && chmod +x x-ui.sh && ./x-ui.sh
 ```
 
 ## 手动安装&升级
 
-1. 首先从 https://github.com/amclubs/am-serv00-x-ui/releases 下载最新的压缩包，一般选择 `amd64`架构
+1. 首先从 https://github.com/amclubs/serv00-x-ui/releases 下载最新的压缩包，一般选择 `amd64`架构
 2. 然后将这个压缩包上传到服务器的 `/home/[username]`目录下，
 
 > 如果你的服务器 cpu 架构不是 `amd64`，自行将命令中的 `amd64`替换为其他架构
