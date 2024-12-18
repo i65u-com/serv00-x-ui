@@ -1,10 +1,7 @@
 # [serv00-x-ui](https://github.com/amclubs/serv00-x-ui)
 这是一个基于serv00免费服务器安装 x-ui for freebsd 支持多协议多用户的 xray 面板, 本版本支持FreeBSD非root安装
 
-#
-▶️ **新人[YouTube](https://youtube.com/@AM_CLUB)** 需要您的支持，请务必帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
-</br>🎁 不要只是下载或Fork。请 **follow** 我的GitHub、给我所有项目一个 **Star** 星星（拜托了）！你的支持是我不断前进的动力！ 💖
-</br>✅**解锁更多技术请点击进入 YouTube频道[【@AM_CLUB】](https://youtube.com/@AM_CLUB) 、[【个人博客】](https://am.809098.xyz)** 、TG群[【AM科技 | 分享交流群】](https://t.me/AM_CLUBS) 、获取免费节点[【进群发送关键字: 订阅】](https://t.me/AM_CLUBS)
+
 
 # 视频教程
 - [点击进入视频教程](https://youtu.be/YCq0pEpG2jE)
@@ -66,13 +63,7 @@ nohup ./x-ui run > ./x-ui.log 2>&1 &
 # 感谢
 [parentalclash](https://github.com/parentalclash/x-ui-freebsd)、[vaxilu](https://github.com/vaxilu/x-ui)
 
-  # 
- <center><details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
- *我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
-  
- - **USDT-TRC20:** `TWTxUyay6QJN3K4fs4kvJTT8Zfa2mWTwDD`
-  
- </details></center>
+
 
  #
  免责声明:
